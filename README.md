@@ -1,9 +1,8 @@
 # Arbolino
-Arbolino
 
 Bootloader cargado para Arduino Duemilanove o Diecimilla Atmega328
 
-E/S Arbolino<-->Arduino
+#E/S Arbolino<-->Arduino
 BLOQUE 1 LEDS ROJOS - PIN 3
 BLOQUE 2 LEDS ROJOS - PIN 5
 BLOQUE 1 LEDS AZULES - PIN 10
